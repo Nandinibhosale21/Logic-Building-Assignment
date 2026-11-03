@@ -1,0 +1,2 @@
+#Assignment15
+logic programming practice questions and solutions
